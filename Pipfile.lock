@@ -1,0 +1,81 @@
+{
+    "_meta": {
+        "hash": {
+            "sha256": "c053efd0ce4b9eaa4013fed2b99fa67a3c448450f5e750986d5191c777cdb723"
+        },
+        "pipfile-spec": 6,
+        "requires": {
+            "python_version": "3.11"
+        },
+        "sources": [
+            {
+                "name": "pypi",
+                "url": "https://pypi.org/simple",
+                "verify_ssl": true
+            }
+        ]
+    },
+    "default": {
+        "astroid": {
+            "version": "==2.15.9"
+        },
+        "cffi": {
+            "version": "==1.15.1"
+        },
+        "coverage": {
+            "version": "==7.2.4"
+        },
+        "cryptography": {
+            "version": "==41.0.1"
+        },
+        "dj-database-url": {
+            "version": "==1.2.0"
+        },
+        "django": {
+            "version": "==4.2.4"
+        },
+        "django-cors-headers": {
+            "version": "==4.0.0"
+        },
+        "django-rest-knox": {
+            "version": "==6.0.0"
+        },
+        "djangorestframework": {
+            "version": "==3.14.0"
+        },
+        "gunicorn": {
+            "version": "==21.0.1"
+        },
+        "isort": {
+            "version": "==5.12.0"
+        },
+        "lazy-object-proxy": {
+            "version": "==1.9.0"
+        },
+        "mccabe": {
+            "version": "==0.7.0"
+        },
+        "pylint": {
+            "version": "==2.17.4"
+        },
+        "pytz": {
+            "version": "==2023.3"
+        },
+        "six": {
+            "version": "==1.16.0"
+        },
+        "sqlparse": {
+            "version": "==0.4.4"
+        },
+        "toml": {
+            "version": "==0.10.2"
+        },
+        "whitenoise": {
+            "version": "==6.4.0"
+        },
+        "wrapt": {
+            "version": "==1.14.1"
+        }
+    },
+    "develop": {}
+}
